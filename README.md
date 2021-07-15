@@ -7,3 +7,4 @@ This application is a copyright management system built on the Ethereum blockcha
 ### Demo App
 
 Click [here](frontend/index.html) to launch the CryptoRight application.
+Click [here](facebook.com) to launch the CryptoRight application.
